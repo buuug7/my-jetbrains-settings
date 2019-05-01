@@ -1,0 +1,5 @@
+<templateSet group="mm">
+  <template name="333" value="$var$" description="444" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
