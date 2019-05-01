@@ -6,11 +6,6 @@
       <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home" />
       <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/lib/charsets.jar!/" type="simple" />
@@ -43,9 +38,6 @@
             <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/lib/tools.jar!/" type="simple" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/" type="simple" />
@@ -61,27 +53,19 @@
       <version value="java version &quot;1.8.0_202&quot;" />
       <homePath value="$USER_HOME$/Library/Android/sdk" />
       <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/data/annotations.zip!/" type="simple" />
-          </root>
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/" type="simple" />
             <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res" type="simple" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-28" type="simple" />
           </root>
         </sourcePath>
       </roots>
-      <additional jdk="1.8" sdk="android-28" />
+      <additional />
     </jdk>
   </component>
 </application>
