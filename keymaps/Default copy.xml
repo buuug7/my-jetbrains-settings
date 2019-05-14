@@ -12,8 +12,4 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift f6" />
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
-  </action>
 </keymap>
