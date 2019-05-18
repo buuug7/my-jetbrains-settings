@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="text" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="gradle.kts" type="Kotlin" />
     </extensionMap>
