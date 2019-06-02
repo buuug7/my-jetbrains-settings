@@ -6,6 +6,10 @@
           <option name="url" value="http://36.41.190.179:8000" />
           <option name="userName" value="puguohong@togeek.cn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="youpp@126.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
