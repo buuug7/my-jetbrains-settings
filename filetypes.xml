@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="btn-group-v1.vue" type="PLAIN_TEXT" />
       <mapping pattern="Pair" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
