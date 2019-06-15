@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="csc" type="Native" />
       <mapping pattern="you-dont-need-jquery.md" type="PLAIN_TEXT" />
       <mapping pattern="btn-group-v1.vue" type="PLAIN_TEXT" />
       <mapping pattern="Pair" type="PLAIN_TEXT" />
