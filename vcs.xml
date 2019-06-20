@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/buuug7/resume-with-vue" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.41.190.179:8000/liulin/NariMobile.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\buuug7\code" />
