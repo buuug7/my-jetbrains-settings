@@ -1,14 +1,8 @@
 <application>
   <component name="libraryTable">
-    <library name="highlight" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_highlight.js_9.15.8_highlight.min.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_highlight.js_9.15.8_highlight.min.js" />
-      </CLASSES>
+    <library name="highlight">
+      <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
   </component>
