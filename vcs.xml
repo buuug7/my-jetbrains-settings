@@ -19,8 +19,12 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://36.41.190.179:8000/liulin/NariMobile.git" />
+          <option name="url" value="git@github.com:buuug7/your-resume.git" />
           <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.61.16.201:9080" />
+          <option name="userName" value="puguohong@togeek.cn" />
         </UrlAndUserName>
       </list>
     </option>
