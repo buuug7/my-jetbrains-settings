@@ -1,14 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="csc" type="Native" />
       <mapping pattern="you-dont-need-jquery.md" type="PLAIN_TEXT" />
       <mapping pattern="btn-group-v1.vue" type="PLAIN_TEXT" />
       <mapping pattern="Pair" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="appkey" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
