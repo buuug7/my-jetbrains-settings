@@ -3,4 +3,8 @@
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
 </keymap>
