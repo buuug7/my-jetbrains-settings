@@ -1,6 +1,5 @@
 <application>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc;*.http" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
 </application>

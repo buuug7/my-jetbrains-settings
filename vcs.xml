@@ -26,6 +26,10 @@
           <option name="url" value="http://10.61.16.201:9080" />
           <option name="userName" value="puguohong@togeek.cn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/buuug7/soup-hub.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\buuug7\code" />

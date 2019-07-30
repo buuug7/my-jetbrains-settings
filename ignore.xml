@@ -36,21 +36,6 @@
 *.iml
 out
 gen</template>
-      <template name="buuug7">### Buuug7 template
-
-.idea
-.vscode
-*.sublime-project
-*.sublime-workspace
-.DS_STORE
-*.log*
-*.imi
-.tmp
-out
-gen
-
-node_modules
-dist</template>
     </userTemplates>
   </component>
 </application>
