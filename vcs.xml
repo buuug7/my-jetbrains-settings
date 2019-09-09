@@ -30,9 +30,13 @@
           <option name="url" value="https://github.com/buuug7/soup-hub.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://36.41.190.179:8000/togeek/supplier-evaluation-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\buuug7\code" />
+    <option name="cloneParentDir" value="D:\nanwang_code" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
