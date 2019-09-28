@@ -2,6 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="CamingoCode" />
     <option name="LINE_SPACING" value="1.0" />
+    <option name="SECONDARY_FONT_FAMILY" value="Consolas" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
