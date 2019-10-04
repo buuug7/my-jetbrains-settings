@@ -38,6 +38,10 @@
           <option name="url" value="http://icode.natapp1.cc" />
           <option name="userName" value="puguohong@togeek.cn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://39.100.79.141:8000" />
+          <option name="userName" value="puguohong@togeek.cn" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\nanwang_code" />
