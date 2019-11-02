@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/node" type="javaScript">
+    <library name="@types/express" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
