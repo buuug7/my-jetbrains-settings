@@ -5,4 +5,13 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="apost" value="this.$http.post($URL$, $DATA$)&#10;    .then(({ data: $RES$ }) =&gt; {&#10;    &#10;    &#10;    })&#10;    .catch(err =&gt; {});" description="axios post" toReformat="false" toShortenFQNames="true">
+    <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RES" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
