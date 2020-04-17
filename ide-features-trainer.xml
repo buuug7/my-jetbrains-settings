@@ -17,7 +17,7 @@
     <option name="map">
       <map>
         <entry key="Before Debugging: Run/Debug Configurations" value="NOT_PASSED" />
-        <entry key="Code Editing Tips and Tricks" value="NOT_PASSED" />
+        <entry key="Code Editing Tips and Tricks" value="PASSED" />
         <entry key="Debugging Code. Part I" value="NOT_PASSED" />
         <entry key="Debugging Code. Part II" value="NOT_PASSED" />
         <entry key="Fundamentals of Testing in WebStorm" value="NOT_PASSED" />
