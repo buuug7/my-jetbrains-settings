@@ -16,13 +16,13 @@
   <component name="LessonStateBase">
     <option name="map">
       <map>
-        <entry key="Before Debugging: Run/Debug Configurations" value="NOT_PASSED" />
+        <entry key="Before Debugging: Run/Debug Configurations" value="PASSED" />
         <entry key="Code Editing Tips and Tricks" value="PASSED" />
-        <entry key="Debugging Code. Part I" value="NOT_PASSED" />
-        <entry key="Debugging Code. Part II" value="NOT_PASSED" />
-        <entry key="Fundamentals of Testing in WebStorm" value="NOT_PASSED" />
+        <entry key="Debugging Code. Part I" value="PASSED" />
+        <entry key="Debugging Code. Part II" value="PASSED" />
+        <entry key="Fundamentals of Testing in WebStorm" value="PASSED" />
         <entry key="Refactorings in a Nutshell" value="PASSED" />
-        <entry key="Secrets of Efficient Navigation" value="NOT_PASSED" />
+        <entry key="Secrets of Efficient Navigation" value="PASSED" />
         <entry key="The Nuts and Bolts of Code Completion" value="PASSED" />
         <entry key="The Power of Code Inspections" value="PASSED" />
       </map>
